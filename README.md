@@ -2,10 +2,9 @@
 
 ## Summary
 
-This project allows to create a blockchain lottery with ETH based on a USD fee. The admins will close the lottery when is over and the lottery will select a random winner. Contracts contained:
+This project allows to create a blockchain lottery with ETH based on a USD fee. The admins will close the lottery when is over and the lottery will select a random winner. Contract contained:
 
-- `AdvancedCollectible`: It creates a random collectible between 3 puppies
-- `SimpleCollectible`: It creates the simplest NFT, following the ERC720 standards.
+- `Lottery`: It creates the lottery with all it's functions
 
 - [smartcontract-lottery](#smartcontract-lottery)
   - [Summary](#summary)
